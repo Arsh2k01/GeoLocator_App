@@ -1,0 +1,67 @@
+com/baseflow/geolocator/utils/MainThreadDispatcher.java
+ com.baseflow.geolocator.utils.MainThreadDispatcher
+ com.baseflow.geolocator.utils.MainThreadDispatcher$1
+ com.baseflow.geolocator.utils.MainThreadDispatcher$2
+com/baseflow/geolocator/data/GeocodingOptions.java
+ com.baseflow.geolocator.data.GeocodingOptions
+com/baseflow/geolocator/data/wrapper/EventResponse.java
+ com.baseflow.geolocator.data.wrapper.EventResponse
+com/baseflow/geolocator/tasks/CalculateDistanceTask.java
+ com.baseflow.geolocator.tasks.CalculateDistanceTask
+com/baseflow/geolocator/BuildConfig.java
+ com.baseflow.geolocator.BuildConfig
+com/baseflow/geolocator/tasks/ForwardGeocodingTask.java
+ com.baseflow.geolocator.tasks.ForwardGeocodingTask
+ com.baseflow.geolocator.tasks.ForwardGeocodingTask$1
+com/baseflow/geolocator/data/wrapper/ChannelResponse.java
+ com.baseflow.geolocator.data.wrapper.ChannelResponse
+com/baseflow/geolocator/tasks/LocationUsingLocationManagerTask.java
+ com.baseflow.geolocator.tasks.LocationUsingLocationManagerTask
+com/baseflow/geolocator/tasks/TaskContext.java
+ com.baseflow.geolocator.tasks.TaskContext
+com/baseflow/geolocator/tasks/LocationUsingLocationServicesTask.java
+ com.baseflow.geolocator.tasks.LocationUsingLocationServicesTask
+com/baseflow/geolocator/GeolocatorPlugin.java
+ com.baseflow.geolocator.GeolocatorPlugin
+com/baseflow/geolocator/tasks/Task.java
+ com.baseflow.geolocator.tasks.Task
+com/baseflow/geolocator/data/wrapper/MethodResponse.java
+ com.baseflow.geolocator.data.wrapper.MethodResponse
+com/baseflow/geolocator/tasks/LastKnownLocationUsingLocationServicesTask.java
+ com.baseflow.geolocator.tasks.LastKnownLocationUsingLocationServicesTask
+ com.baseflow.geolocator.tasks.LastKnownLocationUsingLocationServicesTask$1
+ com.baseflow.geolocator.tasks.LastKnownLocationUsingLocationServicesTask$2
+com/baseflow/geolocator/tasks/LocationUpdatesUsingLocationServicesTask.java
+ com.baseflow.geolocator.tasks.LocationUpdatesUsingLocationServicesTask
+ com.baseflow.geolocator.tasks.LocationUpdatesUsingLocationServicesTask$1
+ com.baseflow.geolocator.tasks.LocationUpdatesUsingLocationServicesTask$2
+com/baseflow/geolocator/tasks/ReverseGeocodingTask.java
+ com.baseflow.geolocator.tasks.ReverseGeocodingTask
+ com.baseflow.geolocator.tasks.ReverseGeocodingTask$1
+com/baseflow/geolocator/data/ReverseGeocodingOptions.java
+ com.baseflow.geolocator.data.ReverseGeocodingOptions
+com/baseflow/geolocator/tasks/LastKnownLocationUsingLocationManagerTask.java
+ com.baseflow.geolocator.tasks.LastKnownLocationUsingLocationManagerTask
+com/baseflow/geolocator/data/Result.java
+ com.baseflow.geolocator.data.Result
+com/baseflow/geolocator/tasks/TaskFactory.java
+ com.baseflow.geolocator.tasks.TaskFactory
+com/baseflow/geolocator/data/LocationOptions.java
+ com.baseflow.geolocator.data.LocationOptions
+com/baseflow/geolocator/data/CalculateDistanceOptions.java
+ com.baseflow.geolocator.data.CalculateDistanceOptions
+com/baseflow/geolocator/data/PositionMapper.java
+ com.baseflow.geolocator.data.PositionMapper
+com/baseflow/geolocator/data/Coordinate.java
+ com.baseflow.geolocator.data.Coordinate
+com/baseflow/geolocator/OnCompletionListener.java
+ com.baseflow.geolocator.OnCompletionListener
+com/baseflow/geolocator/data/AddressMapper.java
+ com.baseflow.geolocator.data.AddressMapper
+com/baseflow/geolocator/utils/LocaleConverter.java
+ com.baseflow.geolocator.utils.LocaleConverter
+com/baseflow/geolocator/data/ForwardGeocodingOptions.java
+ com.baseflow.geolocator.data.ForwardGeocodingOptions
+com/baseflow/geolocator/tasks/LocationUpdatesUsingLocationManagerTask.java
+ com.baseflow.geolocator.tasks.LocationUpdatesUsingLocationManagerTask
+ com.baseflow.geolocator.tasks.LocationUpdatesUsingLocationManagerTask$GeolocationAccuracy

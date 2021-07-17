@@ -1,0 +1,9 @@
+com/baseflow/location_permissions/LocationPermissionsPlugin.java
+ com.baseflow.location_permissions.LocationPermissionsPlugin
+ com.baseflow.location_permissions.LocationPermissionsPlugin$1
+ com.baseflow.location_permissions.LocationPermissionsPlugin$LocationServiceBroadcastReceiver
+ com.baseflow.location_permissions.LocationPermissionsPlugin$PermissionLevel
+ com.baseflow.location_permissions.LocationPermissionsPlugin$PermissionStatus
+ com.baseflow.location_permissions.LocationPermissionsPlugin$ServiceStatus
+com/baseflow/location_permissions/BuildConfig.java
+ com.baseflow.location_permissions.BuildConfig

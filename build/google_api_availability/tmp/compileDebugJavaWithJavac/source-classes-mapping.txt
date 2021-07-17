@@ -1,0 +1,8 @@
+com/baseflow/googleapiavailability/MethodCallHandlerImpl.java
+ com.baseflow.googleapiavailability.MethodCallHandlerImpl
+ com.baseflow.googleapiavailability.MethodCallHandlerImpl$GooglePlayServicesAvailability
+com/baseflow/googleapiavailability/BuildConfig.java
+ com.baseflow.googleapiavailability.BuildConfig
+com/baseflow/googleapiavailability/GoogleApiAvailabilityPlugin.java
+ com.baseflow.googleapiavailability.GoogleApiAvailabilityPlugin
+ com.baseflow.googleapiavailability.GoogleApiAvailabilityPlugin$1
