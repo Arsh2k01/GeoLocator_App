@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "151736939186",
+    "project_id": "livloc-acdd8",
+    "storage_bucket": "livloc-acdd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151736939186:android:5d5aabeb20d016a60a0fab",
+        "android_client_info": {
+          "package_name": "com.example.restart_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151736939186-rjjb5ekq5cu5eel05huumhskhkr2hid1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcpf7KL5TmbKwrqXr9GmWYK1rmU08uJY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151736939186-rjjb5ekq5cu5eel05huumhskhkr2hid1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
