@@ -10,12 +10,12 @@ A Live location sharing app created in Flutter using Firebase as the backend.
 
 # Dependencies
 
-* [Flutter]
-* [Firebase] 
-* [Google Sign in]
-* [Maps Plugin]
-* [Cloud Firestore]
-* [Google Cloud]
+* Flutter
+* Firebase 
+* Google Sign in
+* Maps Plugin
+* Cloud Firestore
+* Google Cloud
 
 # Getting Started
 
@@ -23,8 +23,10 @@ A Live location sharing app created in Flutter using Firebase as the backend.
 
 ## 2.Clone the repo
 
+```sh
 $ git clone https://github.com/Arsh2k01/GeoLocator_App.git
 $ cd GeoLocator_App
+```
 
 ## 3. Run the app
 
